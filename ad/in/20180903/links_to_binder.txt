@@ -1,0 +1,3 @@
+https://github.com/neychev/small_DL_repo
+
+https://github.com/neychev/boosting_and_DL
