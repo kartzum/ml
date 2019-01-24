@@ -6,3 +6,5 @@
 * [Построить таблицу истинности для логического выражения (A ^ B) -&gt; (C v not A)](https://amlesson.ru/postroit-tablitsu-istinnosti-dlya-logicheskogo-vyrazheniya-a-b-c-v-not-a/)
 * [На числовой прямой даны два отрезка: P = [5, 15] и Q = [12, 18]. Выберите такой отрезок A, что формула ( (x ∈ А) → (x ∈ P) ) ∨ (x ∈ Q)](https://inf-ege.sdamgia.ru/test?likes=4803)
 * [Основы математической логики](http://www.mathprofi.ru/osnovy_matematicheskoj_logiki.html)
+* [Операции над множествами](https://studopedia.su/9_8498_operatsii-nad-mnozhestvami.html)
+
