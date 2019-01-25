@@ -8,3 +8,4 @@
 * [Основы математической логики](http://www.mathprofi.ru/osnovy_matematicheskoj_logiki.html)
 * [Операции над множествами](https://studopedia.su/9_8498_operatsii-nad-mnozhestvami.html)
 * [Множества и логика](http://www.mi-ras.ru/~podolskii/files/chapter6.pdf)
+* [Построение таблицы истинности. СДНФ. СКНФ. Полином Жегалкина.](https://programforyou.ru/calculators/postroenie-tablitci-istinnosti-sknf-sdnf)
