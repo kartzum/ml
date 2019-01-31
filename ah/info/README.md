@@ -13,6 +13,13 @@
 * [Построение таблицы истинности. СДНФ. СКНФ. Полином Жегалкина.](https://programforyou.ru/calculators/postroenie-tablitci-istinnosti-sknf-sdnf)
 * [СДНФ и СКНФ](http://informat444.narod.ru/09/09-03-02.pdf)
 
+## Исследование функций
+
+### Ссылки
+* [МА. Сравнение функций. О-символика](http://corum.mephist.ru/threads/%D0%9C%D0%90-%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9-%D0%9E-%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%B8%D0%BA%D0%B0.36878/)
+* [Скорость роста функций](http://math-hse.info/a/2014-15/ling-la/o_O.pdf)
+* [Асимптотическое поведение функций](http://natalibrilenova.ru/blog/1181-asimptoticheskoe-povedenie-funkciy-sravnenie-beskonechno-malyh-funkciy.html)
+
 ### Заметки
 
 ```
