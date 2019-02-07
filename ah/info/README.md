@@ -34,6 +34,7 @@
 * [Условнаявероятность.Теоремыумноженияисложениявероятностей.](http://yagu.s-vfu.ru/pluginfile.php/126632/mod_resource/content/2/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B_5.pdf)
 * [ТЕОРИЯ ВЕРОЯТНОСТЕЙ](https://nsu.ru/mmf/tvims/chernova/tv/lec/lec.html)
 * http://schegl2g.bget.ru/bayes/YudkowskyBayes.html
+* [Как применять теорему Байеса для решения реальных задач](https://neurohive.io/ru/osnovy-data-science/kak-primenjat-teoremu-bajesa-dlja-reshenija-realnyh-zadach/)
 
 ## Заметки
 
