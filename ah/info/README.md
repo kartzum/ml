@@ -32,6 +32,7 @@
 * [Задача 5346 В продажу поступила партия запасных](https://reshimvse.com/zadacha.php?id=5346)
 * [Формула полной вероятности и условные вероятности событий](https://function-x.ru/probabilities_full.html)
 * [Условнаявероятность.Теоремыумноженияисложениявероятностей.](http://yagu.s-vfu.ru/pluginfile.php/126632/mod_resource/content/2/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B_5.pdf)
+* [ТЕОРИЯ ВЕРОЯТНОСТЕЙ](https://nsu.ru/mmf/tvims/chernova/tv/lec/lec.html)
 
 ## Заметки
 
