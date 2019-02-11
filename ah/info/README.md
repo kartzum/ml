@@ -37,6 +37,7 @@
 * [Как применять теорему Байеса для решения реальных задач](https://neurohive.io/ru/osnovy-data-science/kak-primenjat-teoremu-bajesa-dlja-reshenija-realnyh-zadach/)
 * [Скотт Хартшорн. Теорема Байеса для начинающих с примерами в Excel](http://baguzin.ru/wp/skott-hartshorn-teorema-bajesa-dlya-nachinayushhih-s-primerami-v-excel/)
 * [Элементарная теория вероятностей](https://nsu.ru/mmf/tvims/chernova/tv/lec/node4.html)
+* [Теория вероятностей и математическая статистика. Руководство по решению задач Авторы книги: Григорьев-Голубев Владимир Викторович, Васильева Наталья Викторовна, Кротов Евгений Алексеевич](http://www.ukazka.ru/catalog/book-teoriya-veroyatnostej-i-matematicheskaya-statistika-rukovodstvo-po-resheniyu-zadach-497330.html)
 
 ## Заметки
 
