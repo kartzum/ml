@@ -36,6 +36,7 @@
 * http://schegl2g.bget.ru/bayes/YudkowskyBayes.html
 * [Как применять теорему Байеса для решения реальных задач](https://neurohive.io/ru/osnovy-data-science/kak-primenjat-teoremu-bajesa-dlja-reshenija-realnyh-zadach/)
 * [Скотт Хартшорн. Теорема Байеса для начинающих с примерами в Excel](http://baguzin.ru/wp/skott-hartshorn-teorema-bajesa-dlya-nachinayushhih-s-primerami-v-excel/)
+* [Элементарная теория вероятностей](https://nsu.ru/mmf/tvims/chernova/tv/lec/node4.html)
 
 ## Заметки
 
