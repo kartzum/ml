@@ -39,6 +39,7 @@
 * [Элементарная теория вероятностей](https://nsu.ru/mmf/tvims/chernova/tv/lec/node4.html)
 * [Теория вероятностей и математическая статистика. Руководство по решению задач Авторы книги: Григорьев-Голубев Владимир Викторович, Васильева Наталья Викторовна, Кротов Евгений Алексеевич](http://www.ukazka.ru/catalog/book-teoriya-veroyatnostej-i-matematicheskaya-statistika-rukovodstvo-po-resheniyu-zadach-497330.html)
 * [Вероятность:примеры и задачи](https://www.mccme.ru/shen/proba.pdf)
+* [ЗАДАЧИПО ТЕОРИИ ВЕРОЯТНОСТЕЙ](http://old.kpfu.ru/f9/bibl/AA_Vse.pdf)
 
 ## Заметки
 
