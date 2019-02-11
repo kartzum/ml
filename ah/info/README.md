@@ -31,13 +31,14 @@
 Авторы: Григорьев–Голубев Владимир Викторович](https://books.google.ru/books?id=_t-eAwAAQBAJ&pg=PA14&lpg=PA14&dq=%D0%B8%D0%B3%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%83%D1%8E+%D0%BA%D0%BE%D1%81%D1%82%D1%8C+%D0%BF%D0%BE%D0%B4%D0%B1%D1%80%D0%B0%D1%81%D1%8B%D0%B2%D0%B0%D0%B5%D1%82%D1%81%D1%8F+%D0%B4%D0%BE+%D1%82%D0%B5%D1%85+%D0%BF%D0%BE%D1%80+%D0%BF%D0%BE%D0%BA%D0%B0+%D0%BD%D0%B5+%D0%B2%D1%8B%D0%BF%D0%B0%D0%B4%D0%B5%D1%82+6&source=bl&ots=KVTRfRkkk7&sig=ACfU3U1VtxB1hheWXhXpHLwN0kl-3Op8Fw&hl=ru&sa=X&ved=2ahUKEwj1jYyou6bgAhWBdCwKHUiwB0w4ChDoATAIegQIBRAB#v=onepage&q=%D0%B8%D0%B3%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%83%D1%8E%20%D0%BA%D0%BE%D1%81%D1%82%D1%8C%20%D0%BF%D0%BE%D0%B4%D0%B1%D1%80%D0%B0%D1%81%D1%8B%D0%B2%D0%B0%D0%B5%D1%82%D1%81%D1%8F%20%D0%B4%D0%BE%20%D1%82%D0%B5%D1%85%20%D0%BF%D0%BE%D1%80%20%D0%BF%D0%BE%D0%BA%D0%B0%20%D0%BD%D0%B5%20%D0%B2%D1%8B%D0%BF%D0%B0%D0%B4%D0%B5%D1%82%206&f=false)
 * [Задача 5346 В продажу поступила партия запасных](https://reshimvse.com/zadacha.php?id=5346)
 * [Формула полной вероятности и условные вероятности событий](https://function-x.ru/probabilities_full.html)
-* [Условнаявероятность.Теоремыумноженияисложениявероятностей.](http://yagu.s-vfu.ru/pluginfile.php/126632/mod_resource/content/2/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B_5.pdf)
+* [Условнаявероятность.Теоремы умножения и сложения вероятностей.](http://yagu.s-vfu.ru/pluginfile.php/126632/mod_resource/content/2/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B_5.pdf)
 * [ТЕОРИЯ ВЕРОЯТНОСТЕЙ](https://nsu.ru/mmf/tvims/chernova/tv/lec/lec.html)
 * http://schegl2g.bget.ru/bayes/YudkowskyBayes.html
 * [Как применять теорему Байеса для решения реальных задач](https://neurohive.io/ru/osnovy-data-science/kak-primenjat-teoremu-bajesa-dlja-reshenija-realnyh-zadach/)
 * [Скотт Хартшорн. Теорема Байеса для начинающих с примерами в Excel](http://baguzin.ru/wp/skott-hartshorn-teorema-bajesa-dlya-nachinayushhih-s-primerami-v-excel/)
 * [Элементарная теория вероятностей](https://nsu.ru/mmf/tvims/chernova/tv/lec/node4.html)
 * [Теория вероятностей и математическая статистика. Руководство по решению задач Авторы книги: Григорьев-Голубев Владимир Викторович, Васильева Наталья Викторовна, Кротов Евгений Алексеевич](http://www.ukazka.ru/catalog/book-teoriya-veroyatnostej-i-matematicheskaya-statistika-rukovodstvo-po-resheniyu-zadach-497330.html)
+* [Вероятность:примеры и задачи](https://www.mccme.ru/shen/proba.pdf)
 
 ## Заметки
 
