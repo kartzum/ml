@@ -43,6 +43,7 @@
 * [В большой партии товара 5% дефектных изделий. Контролер обнаруживает дефект с вероятностью 0.9... ](https://qna.center/question/283)
 * [Независимость событий. Теорема умножения вероятностей.](http://www.mathelp.spb.ru/book2/tv5.htm)
 * [Условная вероятность. Теорема Байеса](http://baguzin.ru/wp/uslovnaya-veroyatnost-teorema-bajesa/)
+* http://portal.tpu.ru:7777/SHARED/g/GSHEVELYOV/teacher_work/TWMS/Tab/TVMS_UP.pdf
 
 ## Заметки
 
