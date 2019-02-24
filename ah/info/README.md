@@ -47,6 +47,7 @@
 * [Дискретные случайные величины](https://helpiks.org/5-111353.html)
 * http://www.tstu.tver.ru/faculties/civil/vm/math_on_line/topic/teor/lect_4/lect_4_4.html
 * http://matica.org.ua/metodichki-i-knigi-po-matematike/konspekt-lektcii-po-teorii-veroiatnostei-i-matematicheskoi-statistike-komogortcev-v-f/1-16-svoistva-matematicheskogo-ozhidaniia-diskretnoi-sluchainoi-velichiny
+* [Биноминальное распределение](http://baguzin.ru/wp/binominalnoe-raspredelenie/)
 
 ## Заметки
 
