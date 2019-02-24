@@ -45,6 +45,7 @@
 * [Условная вероятность. Теорема Байеса](http://baguzin.ru/wp/uslovnaya-veroyatnost-teorema-bajesa/)
 * http://portal.tpu.ru:7777/SHARED/g/GSHEVELYOV/teacher_work/TWMS/Tab/TVMS_UP.pdf
 * [Дискретные случайные величины](https://helpiks.org/5-111353.html)
+* http://www.tstu.tver.ru/faculties/civil/vm/math_on_line/topic/teor/lect_4/lect_4_4.html
 
 ## Заметки
 
