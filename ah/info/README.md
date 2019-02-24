@@ -46,6 +46,7 @@
 * http://portal.tpu.ru:7777/SHARED/g/GSHEVELYOV/teacher_work/TWMS/Tab/TVMS_UP.pdf
 * [Дискретные случайные величины](https://helpiks.org/5-111353.html)
 * http://www.tstu.tver.ru/faculties/civil/vm/math_on_line/topic/teor/lect_4/lect_4_4.html
+* http://matica.org.ua/metodichki-i-knigi-po-matematike/konspekt-lektcii-po-teorii-veroiatnostei-i-matematicheskoi-statistike-komogortcev-v-f/1-16-svoistva-matematicheskogo-ozhidaniia-diskretnoi-sluchainoi-velichiny
 
 ## Заметки
 
