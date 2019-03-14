@@ -55,6 +55,8 @@
 * [Неравенство Чебышева](http://ido.aspu.ru/COURSES/course113/mods/1675/prak6.htm)
 * [Центральная предельная теорема](http://datascientist.one/central-limit-theorem/)
 * [Решение задач о бросании игральных костей](https://www.matburo.ru/tvart_sub.php?p=art_kost)
+* [Неравенство Чебышева. Центральная предельная теорема](https://lektsii.com/1-99502.html)
+* https://ami.nstu.ru/~post/teaching/tv_ms/kibzun.pdf
 
 ## Заметки
 
