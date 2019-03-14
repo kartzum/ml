@@ -53,6 +53,8 @@
 * [Неравенство Маркова. Неравенство Чебышева](https://www.matburo.ru/ex_tv.php?p1=tvmch)
 * [Неравенство Чебышева](http://ru.solverbook.com/spravochnik/reshenie-neravenstv/neravenstvo-chebysheva/)
 * [Неравенство Чебышева](http://ido.aspu.ru/COURSES/course113/mods/1675/prak6.htm)
+* [Центральная предельная теорема](http://datascientist.one/central-limit-theorem/)
+* [Решение задач о бросании игральных костей](https://www.matburo.ru/tvart_sub.php?p=art_kost)
 
 ## Заметки
 
