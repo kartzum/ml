@@ -58,6 +58,11 @@
 * [Неравенство Чебышева. Центральная предельная теорема](https://lektsii.com/1-99502.html)
 * https://ami.nstu.ru/~post/teaching/tv_ms/kibzun.pdf
 
+## ЛА
+
+### Ссылки
+* http://www.inm.ras.ru/vtm/lection/all.pdf
+
 ## Заметки
 
 ```
