@@ -57,11 +57,14 @@
 * [Решение задач о бросании игральных костей](https://www.matburo.ru/tvart_sub.php?p=art_kost)
 * [Неравенство Чебышева. Центральная предельная теорема](https://lektsii.com/1-99502.html)
 * https://ami.nstu.ru/~post/teaching/tv_ms/kibzun.pdf
+* https://mipt.ru/dasr/upload/e26/f_4377ke-arphh81ii9w.pdf
 
 ## ЛА
 
 ### Ссылки
 * http://www.inm.ras.ru/vtm/lection/all.pdf
+* http://sci.alnam.ru/book_alin.php?id=4
+* http://rcs.chemometrics.ru/Tutorials/matrix.htm#ch213
 
 ## Заметки
 
