@@ -65,6 +65,10 @@
 * http://www.inm.ras.ru/vtm/lection/all.pdf
 * http://sci.alnam.ru/book_alin.php?id=4
 * http://rcs.chemometrics.ru/Tutorials/matrix.htm#ch213
+* http://matica.org.ua/metodichki-i-knigi-po-matematike/vysshaia-matematika-erokhina-a-p-baibakova-l-n/4-3-5-lineinyi-operator-i-ego-matritca
+* http://www.apmath.spbu.ru/ru/education/final/2006/09.pdf
+* https://publications.hse.ru/mirror/pubs/share/folder/ursiew8ptp/direct/55457368
+* http://old.exponenta.ru/educat/class/courses/la/theme7/theory.asp
 
 ## Заметки
 
