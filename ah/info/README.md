@@ -78,6 +78,7 @@
 * [ОСНОВЫ МАТЕМАТИЧЕСКОЙ СТАТИСТИКИ](http://www.sevin.ru/fundecology/literature/parameters.html)
 * [Методы математической статистики. Лекции.](https://cmp.phys.msu.ru/sites/default/files/Lectures_on_MS.pdf)
 * http://elib.bsu.by/bitstream/123456789/165700/1/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0.pdf
+* http://cmcstuff.esyr.org/el-net-20111113/4th%20Semestre/%D0%A2%D0%92%D0%B8%D0%9C%D0%A1/MathematicalStatistics%20(%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8).pdf
 
 
 ## Заметки
